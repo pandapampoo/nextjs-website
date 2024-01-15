@@ -1,0 +1,3 @@
+export const WORDPRESS_URL='https://pandapp.online/woo-commerce'
+export const WORDPRESS_WOOCOMMERCE_KEY='ck_c21be6176ba1da3fafc513b130ba95a0e1d9572d'
+export const WORDPRESS_WOOCOMMERCE_SECRET_KEY='cs_fb7e665d6a576153e64c1a950712fd61d1102df0'
